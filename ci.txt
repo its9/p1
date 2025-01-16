@@ -1,4 +1,4 @@
-1.CI/CD CHALLENGE LAB
+
 
 export ZONE=
 curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Implement%20CI%20CD%20Pipelines%20on%20Google%20Cloud%20Challenge%20Lab/gsp393.sh
