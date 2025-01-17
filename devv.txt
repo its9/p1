@@ -1,0 +1,11 @@
+export ZONE=
+
+curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/Implement%20DevOps%20Workflows%20in%20Google%20Cloud%3A%20Challenge%20Lab/techcps330.sh
+sudo chmod +x techcps330.sh
+./techcps330.sh                                                                                                                                                                                                       
+                                                                                                                                                                                                                                    Create 2 triggers   
+                                                                                                                                                                                                      curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Implement%20DevOps%20Workflows%20in%20Google%20Cloud%20Challenge%20Lab/gsp330-2.sh
+
+sudo chmod +x gsp330-2.sh
+
+./gsp330-2.sh
