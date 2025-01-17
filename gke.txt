@@ -1,0 +1,10 @@
+
+
+export REGION=us-central1
+
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Deploying%20GKE%20Autopilot%20Clusters%20from%20Cloud%20Shell/quicklab.sh
+
+sudo chmod +x quicklab.sh
+
+./quicklab.sh
